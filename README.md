@@ -23,7 +23,21 @@ Corre en el puerto _**http://localhost:3000**_.
 
 ### Estructura de carpetas
 
-
+~~~
+├── config
+      ├── mailer.js
+      ├── variables.js
+├── controller
+      ├── formController.js
+├── models
+      ├── FormData.js
+├── router
+      ├── index.js
+├── .gitignore
+├── index.js
+├── package-lock.json
+├── package.json
+~~~
 
 ### Autor [:octocat:](https://github.com/OmarVargas235)
 
