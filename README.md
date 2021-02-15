@@ -2,7 +2,7 @@
 
 ### Descripcion:
 
-Este proyecto recibe los datos que vienen de un formulario y tiene  
+Este proyecto recibe los datos que vienen de un formulario que tiene el portafolio, y tiene  
 la respectiva configuracion de nodemiler para enviar correos electronicos ademas  
 de su respectiva validacion.
 
@@ -19,7 +19,7 @@ En el directorio del proyecto, puede ejecutar:
 
 Ejecuta la aplicación en modo de desarrollo.
 #### ``nodemon index o node index``
-Corre en el puerto _**http://localhost:3000**_.
+Corre en el puerto _**http://localhost:5000**_.
 
 ### Estructura de carpetas
 
