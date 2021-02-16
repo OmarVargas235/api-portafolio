@@ -21,7 +21,7 @@ Ejecuta la aplicación en modo de desarrollo.
 #### ``nodemon index o node index``
 Corre en el puerto _**http://localhost:5000**_.
 
-### Estructura de carpetas
+### Estructura de carpeta
 
 ~~~
 ├── config
