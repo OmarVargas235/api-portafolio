@@ -15,11 +15,10 @@ app.use( bodyParser.json() );
 app.use( expressValidator() );
 
 // Configuracion de los cors
-console.log(process.env.FRONTEND_URL)
 const whiteList = [process.env.FRONTEND_URL];
 const corsOptions = {
 	origin: (origin, callback) => {
-		console.log("origin", origin);
+		
 		// Revisar si la peticion  viene de un servidor que esta en la whiteList
 		const existe = whiteList.some(dominio => dominio === origin);
 		

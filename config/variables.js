@@ -12,5 +12,5 @@ process.env.PORT = process.env.PORT || 5000;
 // NODEMAILER
 // =====================================
 
-process.env.EMAIL = 'ov1356272@gmail.com';
-process.env.PASSWORD = 'kmsaphatnqqzqcah';
+process.env.EMAIL = 'omarpruebas0@gmail.com';
+process.env.PASSWORD = 'tcgaljxptxfmokal';
